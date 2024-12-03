@@ -1,1 +1,2071 @@
-[{"name": "t2_a001", "position": {"x": -1.42439151, "y": -0.08570147, "z": 0.28667447}, "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}, "scale": {"x": 100.0, "y": 100.0, "z": 100.0}, "offSetUV": null, "tag": "estate", "type": "object"}, {"name": "baseboard_bath_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "baseboard", "floor": "estate"}, {"name": "baseboard_bed_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "baseboard", "floor": "estate"}, {"name": "baseboard_hall_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "baseboard", "floor": "estate"}, {"name": "baseboard_kitchen_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "baseboard", "floor": "estate"}, {"name": "baseboard_living_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "baseboard", "floor": "estate"}, {"name": "ground_bath_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "floor_stone", "floor": "estate"}, {"name": "ground_bed_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "floor_stone", "floor": "estate"}, {"name": "ground_garden_01", "tiling": {"x": 0.2, "y": 0.2}, "offSet": {"x": 2.0, "y": 2.0}, "tag": "living_01", "type": "floor_stone", "floor": "estate"}, {"name": "ground_hall_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "floor_stone", "floor": "estate"}, {"name": "ground_kitchen_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "floor_stone", "floor": "estate"}, {"name": "ground_living_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "floor_stone", "floor": "estate"}, {"name": "ground_shower_01", "tiling": {"x": 2.4, "y": 2.4}, "offSet": {"x": -0.29, "y": -0.29}, "tag": "living_01", "type": "floor_stone", "floor": "estate"}, {"name": "ground_terrace_01", "tiling": {"x": 2.2, "y": 2.2}, "offSet": {"x": -0.27, "y": -0.27}, "tag": "living_01", "type": "floor_stone", "floor": "estate"}, {"name": "curtain_01", "tiling": {"x": 4.0, "y": 4.0}, "offSet": {"x": -0.38, "y": -0.38}, "tag": "living_01", "type": "curtain", "floor": "estate"}, {"name": "curtain_02", "tiling": {"x": 4.0, "y": 4.0}, "offSet": {"x": -0.38, "y": -0.38}, "tag": "living_01", "type": "curtain", "floor": "estate"}, {"name": "curtain_03", "tiling": {"x": 4.0, "y": 4.0}, "offSet": {"x": -0.38, "y": -0.38}, "tag": "living_01", "type": "curtain", "floor": "estate"}, {"name": "scandi_living_floor_lamp_02", "position": {"x": -4.56646347, "y": 0.00029451, "z": 1.23946118}, "rotation": {"x": 0.0, "y": 45.0, "z": 360.0}, "scale": {"x": 100.0, "y": 100.0, "z": 100.0}, "offSetUV": null, "tag": "living_01", "type": "object"}, {"name": "camera_aerial_main", "position": {"x": -10.48433495, "y": 12.07230663, "z": -9.31742859}, "rotation": {"x": 5.63, "y": 3.77, "z": 0.6}, "target": {"x": -9.9178009, "y": 11.41996574, "z": -8.81395054}, "fov": 0.84408951, "tag": "global", "type": "camera"}, {"name": "boheme_washbasin_sanijura_bonnie", "position": {"x": 3.83200026, "y": -0.08376169, "z": 2.46494269}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "light_switch_alcini_eurohm_comete_06", "position": {"x": -1.35500002, "y": -0.53846312, "z": 3.94178343}, "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall", "position": {"x": -1.35500002, "y": -0.45846343, "z": 3.94178343}, "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_living_tv", "position": {"x": -0.44400001, "y": -0.0847621, "z": 0.69078279}, "rotation": {"x": 360.0, "y": 0.0, "z": 360.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_parent_armchair", "position": {"x": -1.85997581, "y": -0.08476019, "z": 1.24929881}, "rotation": {"x": 0.0, "y": 180.01, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "shadows", "position": {"x": -1.85897565, "y": -0.08376025, "z": 1.25029862}, "rotation": {"x": 0.0, "y": 180.01, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "wc_jacobdelafon_eolia_01", "position": {"x": 3.37700033, "y": -0.08376265, "z": 4.07310772}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "shadows_1", "position": {"x": 3.37700033, "y": -0.08376265, "z": 4.07310772}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_terrace_plant_01", "position": {"x": -6.60900021, "y": -0.13376188, "z": 3.57778335}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_deco", "position": {"x": 3.96934652, "y": -0.08386183, "z": -0.95721674}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_1", "position": {"x": 3.96934652, "y": -0.08386183, "z": -0.95721674}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "compass", "position": {"x": 0.0, "y": -0.16757154, "z": 0.58078325}, "rotation": {"x": 90.0, "y": 360.0, "z": 315.0}, "scale": {"x": 13.08538628, "y": 13.08538628, "z": 13.08538437}, "offSetUV": null, "tag": "compass", "type": "object"}, {"name": "scandi_terrace_lamp", "position": {"x": -3.01399994, "y": -0.0847621, "z": 0.81178331}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_living_floor_lamp", "position": {"x": -1.92199993, "y": -0.0847621, "z": 0.36878332}, "rotation": {"x": 360.0, "y": 311.79, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "plug_alcini_eurohm_comete_04", "position": {"x": 3.30900002, "y": -0.91946268, "z": -2.99021697}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "snap", "position": {"x": 3.30900002, "y": -0.83946276, "z": -2.99021697}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 2.00000024, "y": 1.00000012, "z": 1.19999969}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_2", "position": {"x": 3.3077004, "y": 0.11183667, "z": -2.99021602}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 2.00000024, "y": 1.00000012, "z": 0.19999994}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_terrace_deckchair_01", "position": {"x": -6.2140007, "y": -0.13375998, "z": -0.29421663}, "rotation": {"x": 0.0, "y": 252.98, "z": 0.0}, "scale": {"x": 1.00000024, "y": 1.00000012, "z": 0.99999988}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_living_sofa", "position": {"x": -0.52200007, "y": -0.08476019, "z": -2.03821659}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": -1.0, "y": -1.0, "z": -1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "plug_alcini_eurohm_comete_1", "position": {"x": -1.45900011, "y": -0.91946268, "z": 0.75078332}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "snap_1", "position": {"x": -1.45900023, "y": -0.8394627, "z": 0.75078332}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_3", "position": {"x": -1.45900106, "y": 0.11183751, "z": 0.75208336}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 0.2}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "light_switch_alcini_eurohm_comete_03", "position": {"x": 3.42000008, "y": -0.08376074, "z": 1.86678338}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_4", "position": {"x": 3.42000008, "y": -0.00376087, "z": 1.86678326}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "towelwarmer_progereal_01", "position": {"x": 2.75200033, "y": -0.08376265, "z": 4.07315826}, "rotation": {"x": 360.0, "y": 0.0, "z": 360.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "light_switch_alcini_eurohm_comete_04", "position": {"x": 1.44099998, "y": -0.08376265, "z": 2.1197834}, "rotation": {"x": 360.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_5", "position": {"x": 1.44099998, "y": -0.00376265, "z": 2.1197834}, "rotation": {"x": 360.0, "y": 90.0, "z": 360.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_terrace_plant", "position": {"x": -3.3670001, "y": -0.13475943, "z": 3.62378335}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "light_switch_alcini_eurohm_comete_01", "position": {"x": 2.28079557, "y": -0.07446241, "z": 0.02778339}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_6", "position": {"x": 2.28079557, "y": 0.00553757, "z": 0.02778343}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 2.00000024, "y": 1.00000012, "z": 1.19999969}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_terrace_plant_03", "position": {"x": -3.2750001, "y": -0.13375998, "z": -3.07721686}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "plug_alcini_eurohm_comete_01", "position": {"x": 3.50699997, "y": -0.08546209, "z": 1.86578345}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "snap_2", "position": {"x": 3.50699997, "y": -0.0054621, "z": 1.86578345}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_7", "position": {"x": 3.50699878, "y": 0.94583797, "z": 1.86708343}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 0.2}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_living_shelf", "position": {"x": 2.1329999, "y": 0.76553774, "z": -3.33120203}, "rotation": {"x": 0.0, "y": 180.0, "z": 360.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_8", "position": {"x": 2.1329999, "y": 0.84553742, "z": -3.33120203}, "rotation": {"x": 0.0, "y": 180.0, "z": 360.0}, "scale": {"x": 1.07000005, "y": 1.0, "z": 1.21000004}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_terrace_sofa", "position": {"x": -4.96400023, "y": -0.13475943, "z": 2.92078328}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "plug_alcini_eurohm_comete_03", "position": {"x": -1.77699995, "y": -0.91946268, "z": 0.68978322}, "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "snap_3", "position": {"x": -1.77699995, "y": -0.8394627, "z": 0.68978322}, "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_9", "position": {"x": -1.77699924, "y": 0.11183763, "z": 0.68848324}, "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 0.2}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "hdr_a001_rdc_north", "position": {"x": -9.05000019, "y": -3.11499977, "z": -8.60999966}, "rotation": {"x": 90.0, "y": 360.0, "z": 318.86}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "living_01", "type": "hdr"}, {"name": "scandi_living_plant", "position": {"x": 0.94099998, "y": -0.0847621, "z": 0.32978079}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "shower_loubes_demo_1200_inox_brushed", "position": {"x": 1.86400008, "y": -0.08376265, "z": 3.74834704}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": -1.02999997, "y": -1.0, "z": -1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_living_ceiling_lamp", "position": {"x": -0.56999993, "y": 2.41623902, "z": -1.47821665}, "rotation": {"x": 180.0, "y": 360.0, "z": 360.0}, "scale": {"x": 0.89999998, "y": 0.89999998, "z": 0.89999998}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "ramp_window_01", "position": {"x": -2.18365002, "y": -0.08376074, "z": -2.50699043}, "rotation": {"x": 0.0, "y": 270.0, "z": 0.0}, "scale": {"x": 2.58417416, "y": 0.93024999, "z": 0.56351328}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "closet_m_01", "position": {"x": 3.44115973, "y": -0.08377123, "z": 0.33157}, "rotation": {"x": 0.0, "y": 180.0, "z": 0.0}, "scale": {"x": 1.04999995, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "closet_layout_m_01", "position": {"x": 3.44399977, "y": -0.16946268, "z": -0.03621662}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.04999995, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_entrance_lamp", "position": {"x": 3.2420001, "y": 2.41623664, "z": 1.07878327}, "rotation": {"x": 180.0, "y": 360.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 0.79423004}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "plug_alcini_eurohm_comete_05", "position": {"x": 3.5710001, "y": -0.91946268, "z": 1.80435288}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "snap_4", "position": {"x": 3.5710001, "y": -0.83946258, "z": 1.80435288}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_10", "position": {"x": 3.5710001, "y": 0.11183763, "z": 1.80305266}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 0.2}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "loubes_demo_tap_boheme_sanijura_halo800", "position": {"x": 3.83299971, "y": -0.0847621, "z": 2.46494222}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_parent_dresser", "position": {"x": -0.44799995, "y": -0.08476019, "z": 0.74278331}, "rotation": {"x": 0.0, "y": 180.08, "z": 0.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.99999988}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "light_switch_alcini_eurohm_comete_05", "position": {"x": 0.65100002, "y": -0.53846312, "z": 3.94178343}, "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_11", "position": {"x": 0.65100002, "y": -0.45846343, "z": 3.94178343}, "rotation": {"x": 0.0, "y": 0.0, "z": 0.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "light_switch_alcini_eurohm_comete_02", "position": {"x": 4.23799992, "y": -0.08376074, "z": 0.56378329}, "rotation": {"x": 360.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_12", "position": {"x": 4.23799992, "y": -0.00376074, "z": 0.56378323}, "rotation": {"x": 360.0, "y": 90.0, "z": 360.0}, "scale": {"x": 2.0, "y": 1.0, "z": 1.20000005}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_terrace_table", "position": {"x": -3.84899998, "y": -0.08476019, "z": -0.60021663}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_living_dining_lamp", "position": {"x": 2.01300001, "y": 2.41623902, "z": -2.29821682}, "rotation": {"x": 180.0, "y": 270.0, "z": 360.0}, "scale": {"x": 0.90000021, "y": 0.90000021, "z": 0.90000045}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_terrace_deckchair", "position": {"x": -6.2140007, "y": -0.13375998, "z": -1.57821679}, "rotation": {"x": 0.0, "y": 252.98, "z": 0.0}, "scale": {"x": 1.00000024, "y": 1.00000012, "z": 0.99999988}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_terrace_plant_02", "position": {"x": -6.66399956, "y": -0.13375998, "z": -3.13521695}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_living_armchair", "position": {"x": 1.17799997, "y": -0.08376074, "z": -0.96421671}, "rotation": {"x": 0.0, "y": 240.38, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_parent_bed", "position": {"x": -0.3499999, "y": -0.0847621, "z": 3.94256926}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_living_dining_table_s", "position": {"x": 2.01300001, "y": -0.08476019, "z": -2.29321671}, "rotation": {"x": 360.0, "y": 0.0, "z": 0.0}, "scale": {"x": 1.0, "y": 1.0, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "plug_alcini_eurohm_comete_02", "position": {"x": 3.94899988, "y": -0.00946283, "z": -1.00121665}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "snap_5", "position": {"x": 3.94899988, "y": 0.07053714, "z": -1.00121665}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 2.00000024, "y": 1.00000012, "z": 1.19999969}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_13", "position": {"x": 3.94769979, "y": 1.02183676, "z": -1.00121629}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 2.00000024, "y": 1.00000012, "z": 0.19999994}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "loubes_demo_boheme_bathfurniture_sanijura_halo800", "position": {"x": 3.83299971, "y": -0.0847621, "z": 2.46494269}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "kitchen_01_group_01", "position": {"x": 3.969347, "y": -0.08376074, "z": -0.35321665}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000024, "y": 1.00000024, "z": 1.0}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_2hotspots_60_01", "position": {"x": 3.969347, "y": -0.08376074, "z": -0.35321665}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": {"meshName": "scandi_kitchen_2hotspots_worktop", "offSet": {"x": 0.0, "y": 0.0}}, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_wall_60_01", "position": {"x": 3.969347, "y": -0.08376074, "z": -0.35321665}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_14", "position": {"x": 3.969347, "y": -0.08376074, "z": -0.35321665}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.99999958}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_led_60_01", "position": {"x": 3.969347, "y": -0.08376074, "z": -0.35321665}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_45_01", "position": {"x": 3.969347, "y": -0.08376088, "z": -0.95321673}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": {"meshName": "scandi_kitchen_worktop", "offSet": {"x": -0.6, "y": 0.0}}, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_wall_45_01", "position": {"x": 3.969347, "y": -0.08376088, "z": -0.95321673}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_15", "position": {"x": 3.9703474, "y": 0.83026588, "z": -1.17821646}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 0.45000002, "y": 1.00000012, "z": 0.49999979}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_led_45_01", "position": {"x": 3.969347, "y": -0.08376088, "z": -0.95321673}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_sink_120_01", "position": {"x": 3.96934676, "y": -0.08376057, "z": -1.40321696}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": {"meshName": "scandi_kitchen_sink_worktop", "offSet": {"x": -1.05, "y": 0.0}}, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_microwave_60_01", "position": {"x": 3.96934676, "y": -0.08376057, "z": -1.40321696}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_16", "position": {"x": 3.96934676, "y": -0.08376057, "z": -1.40321696}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.99999958}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_wall_60_02", "position": {"x": 3.96934676, "y": -0.08376071, "z": -2.00321722}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.99999958}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "s_wall_17", "position": {"x": 3.96934676, "y": -0.08376071, "z": -2.00321722}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_led_60_02", "position": {"x": 3.96934676, "y": -0.08376057, "z": -1.40321696}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}, {"name": "scandi_kitchen_led_60_03", "position": {"x": 3.96934676, "y": -0.08376071, "z": -2.00321722}, "rotation": {"x": 0.0, "y": 90.0, "z": 360.0}, "scale": {"x": 1.00000012, "y": 1.00000012, "z": 0.9999997}, "offSetUV": null, "tag": "shower_01", "type": "object"}]
+[
+  {
+    "name": "t2_a001",
+    "position": {
+      "x": -1.42439151,
+      "y": -0.08570147,
+      "z": 0.28667447
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "estate",
+    "type": "object"
+  },
+  {
+    "name": "baseboard_bath_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "baseboard",
+    "floor": "estate"
+  },
+  {
+    "name": "baseboard_bed_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "baseboard",
+    "floor": "estate"
+  },
+  {
+    "name": "baseboard_hall_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "baseboard",
+    "floor": "estate"
+  },
+  {
+    "name": "baseboard_kitchen_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "baseboard",
+    "floor": "estate"
+  },
+  {
+    "name": "baseboard_living_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "baseboard",
+    "floor": "estate"
+  },
+  {
+    "name": "ground_bath_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "floor_stone",
+    "floor": "estate"
+  },
+  {
+    "name": "ground_bed_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "floor_stone",
+    "floor": "estate"
+  },
+  {
+    "name": "ground_garden_01",
+    "tiling": {
+      "x": 0.2,
+      "y": 0.2
+    },
+    "offSet": {
+      "x": 2.0,
+      "y": 2.0
+    },
+    "tag": "living_01",
+    "type": "floor_stone",
+    "floor": "estate"
+  },
+  {
+    "name": "ground_hall_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "floor_stone",
+    "floor": "estate"
+  },
+  {
+    "name": "ground_kitchen_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "floor_stone",
+    "floor": "estate"
+  },
+  {
+    "name": "ground_living_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "floor_stone",
+    "floor": "estate"
+  },
+  {
+    "name": "ground_shower_01",
+    "tiling": {
+      "x": 2.4,
+      "y": 2.4
+    },
+    "offSet": {
+      "x": -0.29,
+      "y": -0.29
+    },
+    "tag": "living_01",
+    "type": "floor_stone",
+    "floor": "estate"
+  },
+  {
+    "name": "ground_terrace_01",
+    "tiling": {
+      "x": 2.2,
+      "y": 2.2
+    },
+    "offSet": {
+      "x": -0.27,
+      "y": -0.27
+    },
+    "tag": "living_01",
+    "type": "floor_stone",
+    "floor": "estate"
+  },
+  {
+    "name": "curtain_01",
+    "tiling": {
+      "x": 4.0,
+      "y": 4.0
+    },
+    "offSet": {
+      "x": -0.38,
+      "y": -0.38
+    },
+    "tag": "living_01",
+    "type": "curtain",
+    "floor": "estate"
+  },
+  {
+    "name": "curtain_02",
+    "tiling": {
+      "x": 4.0,
+      "y": 4.0
+    },
+    "offSet": {
+      "x": -0.38,
+      "y": -0.38
+    },
+    "tag": "living_01",
+    "type": "curtain",
+    "floor": "estate"
+  },
+  {
+    "name": "curtain_03",
+    "tiling": {
+      "x": 4.0,
+      "y": 4.0
+    },
+    "offSet": {
+      "x": -0.38,
+      "y": -0.38
+    },
+    "tag": "living_01",
+    "type": "curtain",
+    "floor": "estate"
+  },
+  {
+    "name": "scandi_living_floor_lamp_02",
+    "position": {
+      "x": -4.56646347,
+      "y": 0.00029451,
+      "z": 1.23946118
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 45.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "living_01",
+    "type": "object"
+  },
+  {
+    "name": "camera_aerial_main",
+    "position": {
+      "x": -10.48433495,
+      "y": 12.07230663,
+      "z": -9.31742859
+    },
+    "rotation": {
+      "x": 5.63,
+      "y": 3.77,
+      "z": 0.6
+    },
+    "target": {
+      "x": -9.9178009,
+      "y": 11.41996574,
+      "z": -8.81395054
+    },
+    "fov": 0.84408951,
+    "tag": "global",
+    "type": "camera"
+  },
+  {
+    "name": "boheme_washbasin_sanijura_bonnie",
+    "position": {
+      "x": 3.83200026,
+      "y": -0.08376169,
+      "z": 2.46494269
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "light_switch_alcini_eurohm_comete_06",
+    "position": {
+      "x": -1.35500002,
+      "y": -0.53846312,
+      "z": 3.94178343
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall",
+    "position": {
+      "x": -1.35500002,
+      "y": -0.45846343,
+      "z": 3.94178343
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_living_tv",
+    "position": {
+      "x": -0.44400001,
+      "y": -0.0847621,
+      "z": 0.69078279
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_parent_armchair",
+    "position": {
+      "x": -1.85997581,
+      "y": -0.08476019,
+      "z": 1.24929881
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.01,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "shadows",
+    "position": {
+      "x": -1.85897565,
+      "y": -0.08376025,
+      "z": 1.25029862
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.01,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "wc_jacobdelafon_eolia_01",
+    "position": {
+      "x": 3.37700033,
+      "y": -0.08376265,
+      "z": 4.07310772
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "shadows_1",
+    "position": {
+      "x": 3.37700033,
+      "y": -0.08376265,
+      "z": 4.07310772
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_plant_01",
+    "position": {
+      "x": -6.60900021,
+      "y": -0.13376188,
+      "z": 3.57778335
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_deco",
+    "position": {
+      "x": 3.96934652,
+      "y": -0.08386183,
+      "z": -0.95721674
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_1",
+    "position": {
+      "x": 3.96934652,
+      "y": -0.08386183,
+      "z": -0.95721674
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "compass",
+    "position": {
+      "x": 0.0,
+      "y": -0.16757154,
+      "z": 0.58078325
+    },
+    "rotation": {
+      "x": 90.0,
+      "y": 360.0,
+      "z": 315.0
+    },
+    "scale": {
+      "x": 13.08538628,
+      "y": 13.08538628,
+      "z": 13.08538437
+    },
+    "offSetUV": null,
+    "tag": "compass",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_lamp",
+    "position": {
+      "x": -3.01399994,
+      "y": -0.0847621,
+      "z": 0.81178331
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_living_floor_lamp",
+    "position": {
+      "x": -1.92199993,
+      "y": -0.0847621,
+      "z": 0.36878332
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 311.79,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "plug_alcini_eurohm_comete_04",
+    "position": {
+      "x": 3.30900002,
+      "y": -0.91946268,
+      "z": -2.99021697
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "snap",
+    "position": {
+      "x": 3.30900002,
+      "y": -0.83946276,
+      "z": -2.99021697
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 2.00000024,
+      "y": 1.00000012,
+      "z": 1.19999969
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_2",
+    "position": {
+      "x": 3.3077004,
+      "y": 0.11183667,
+      "z": -2.99021602
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 2.00000024,
+      "y": 1.00000012,
+      "z": 0.19999994
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_deckchair_01",
+    "position": {
+      "x": -6.2140007,
+      "y": -0.13375998,
+      "z": -0.29421663
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 252.98,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000012,
+      "z": 0.99999988
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_living_sofa",
+    "position": {
+      "x": -0.52200007,
+      "y": -0.08476019,
+      "z": -2.03821659
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": -1.0,
+      "y": -1.0,
+      "z": -1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "plug_alcini_eurohm_comete_1",
+    "position": {
+      "x": -1.45900011,
+      "y": -0.91946268,
+      "z": 0.75078332
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "snap_1",
+    "position": {
+      "x": -1.45900023,
+      "y": -0.8394627,
+      "z": 0.75078332
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_3",
+    "position": {
+      "x": -1.45900106,
+      "y": 0.11183751,
+      "z": 0.75208336
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.2
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "light_switch_alcini_eurohm_comete_03",
+    "position": {
+      "x": 3.42000008,
+      "y": -0.08376074,
+      "z": 1.86678338
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_4",
+    "position": {
+      "x": 3.42000008,
+      "y": -0.00376087,
+      "z": 1.86678326
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "towelwarmer_progereal_01",
+    "position": {
+      "x": 2.75200033,
+      "y": -0.08376265,
+      "z": 4.07315826
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "light_switch_alcini_eurohm_comete_04",
+    "position": {
+      "x": 1.44099998,
+      "y": -0.08376265,
+      "z": 2.1197834
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_5",
+    "position": {
+      "x": 1.44099998,
+      "y": -0.00376265,
+      "z": 2.1197834
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_plant",
+    "position": {
+      "x": -3.3670001,
+      "y": -0.13475943,
+      "z": 3.62378335
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "light_switch_alcini_eurohm_comete_01",
+    "position": {
+      "x": 2.28079557,
+      "y": -0.07446241,
+      "z": 0.02778339
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_6",
+    "position": {
+      "x": 2.28079557,
+      "y": 0.00553757,
+      "z": 0.02778343
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 2.00000024,
+      "y": 1.00000012,
+      "z": 1.19999969
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_plant_03",
+    "position": {
+      "x": -3.2750001,
+      "y": -0.13375998,
+      "z": -3.07721686
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "plug_alcini_eurohm_comete_01",
+    "position": {
+      "x": 3.50699997,
+      "y": -0.08546209,
+      "z": 1.86578345
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "snap_2",
+    "position": {
+      "x": 3.50699997,
+      "y": -0.0054621,
+      "z": 1.86578345
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_7",
+    "position": {
+      "x": 3.50699878,
+      "y": 0.94583797,
+      "z": 1.86708343
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.2
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_living_shelf",
+    "position": {
+      "x": 2.1329999,
+      "y": 0.76553774,
+      "z": -3.33120203
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_8",
+    "position": {
+      "x": 2.1329999,
+      "y": 0.84553742,
+      "z": -3.33120203
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.07000005,
+      "y": 1.0,
+      "z": 1.21000004
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_sofa",
+    "position": {
+      "x": -4.96400023,
+      "y": -0.13475943,
+      "z": 2.92078328
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "plug_alcini_eurohm_comete_03",
+    "position": {
+      "x": -1.77699995,
+      "y": -0.91946268,
+      "z": 0.68978322
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "snap_3",
+    "position": {
+      "x": -1.77699995,
+      "y": -0.8394627,
+      "z": 0.68978322
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_9",
+    "position": {
+      "x": -1.77699924,
+      "y": 0.11183763,
+      "z": 0.68848324
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.2
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "hdr_a001_rdc_north",
+    "position": {
+      "x": -9.05000019,
+      "y": -3.11499977,
+      "z": -8.60999966
+    },
+    "rotation": {
+      "x": 90.0,
+      "y": 360.0,
+      "z": 318.86
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "living_01",
+    "type": "hdr"
+  },
+  {
+    "name": "scandi_living_plant",
+    "position": {
+      "x": 0.94099998,
+      "y": -0.0847621,
+      "z": 0.32978079
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "shower_loubes_demo_1200_inox_brushed",
+    "position": {
+      "x": 1.86400008,
+      "y": -0.08376265,
+      "z": 3.74834704
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": -1.02999997,
+      "y": -1.0,
+      "z": -1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_living_ceiling_lamp",
+    "position": {
+      "x": -0.56999993,
+      "y": 2.41623902,
+      "z": -1.47821665
+    },
+    "rotation": {
+      "x": 180.0,
+      "y": 360.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 0.89999998,
+      "y": 0.89999998,
+      "z": 0.89999998
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "ramp_window_01",
+    "position": {
+      "x": -2.18365002,
+      "y": -0.08376074,
+      "z": -2.50699043
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 270.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.58417416,
+      "y": 0.93024999,
+      "z": 0.56351328
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "closet_m_01",
+    "position": {
+      "x": 3.44115973,
+      "y": -0.08377123,
+      "z": 0.33157
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.04999995,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "closet_layout_m_01",
+    "position": {
+      "x": 3.44399977,
+      "y": -0.16946268,
+      "z": -0.03621662
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.04999995,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_entrance_lamp",
+    "position": {
+      "x": 3.2420001,
+      "y": 2.41623664,
+      "z": 1.07878327
+    },
+    "rotation": {
+      "x": 180.0,
+      "y": 360.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 0.79423004
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "plug_alcini_eurohm_comete_05",
+    "position": {
+      "x": 3.5710001,
+      "y": -0.91946268,
+      "z": 1.80435288
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "snap_4",
+    "position": {
+      "x": 3.5710001,
+      "y": -0.83946258,
+      "z": 1.80435288
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_10",
+    "position": {
+      "x": 3.5710001,
+      "y": 0.11183763,
+      "z": 1.80305266
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 0.2
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "loubes_demo_tap_boheme_sanijura_halo800",
+    "position": {
+      "x": 3.83299971,
+      "y": -0.0847621,
+      "z": 2.46494222
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_parent_dresser",
+    "position": {
+      "x": -0.44799995,
+      "y": -0.08476019,
+      "z": 0.74278331
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 180.08,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.99999988
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "light_switch_alcini_eurohm_comete_05",
+    "position": {
+      "x": 0.65100002,
+      "y": -0.53846312,
+      "z": 3.94178343
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_11",
+    "position": {
+      "x": 0.65100002,
+      "y": -0.45846343,
+      "z": 3.94178343
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "light_switch_alcini_eurohm_comete_02",
+    "position": {
+      "x": 4.23799992,
+      "y": -0.08376074,
+      "z": 0.56378329
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_12",
+    "position": {
+      "x": 4.23799992,
+      "y": -0.00376074,
+      "z": 0.56378323
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 2.0,
+      "y": 1.0,
+      "z": 1.20000005
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_table",
+    "position": {
+      "x": -3.84899998,
+      "y": -0.08476019,
+      "z": -0.60021663
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_living_dining_lamp",
+    "position": {
+      "x": 2.01300001,
+      "y": 2.41623902,
+      "z": -2.29821682
+    },
+    "rotation": {
+      "x": 180.0,
+      "y": 270.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 0.90000021,
+      "y": 0.90000021,
+      "z": 0.90000045
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_deckchair",
+    "position": {
+      "x": -6.2140007,
+      "y": -0.13375998,
+      "z": -1.57821679
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 252.98,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000012,
+      "z": 0.99999988
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_terrace_plant_02",
+    "position": {
+      "x": -6.66399956,
+      "y": -0.13375998,
+      "z": -3.13521695
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_living_armchair",
+    "position": {
+      "x": 1.17799997,
+      "y": -0.08376074,
+      "z": -0.96421671
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 240.38,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_parent_bed",
+    "position": {
+      "x": -0.3499999,
+      "y": -0.0847621,
+      "z": 3.94256926
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_living_dining_table_s",
+    "position": {
+      "x": 2.01300001,
+      "y": -0.08476019,
+      "z": -2.29321671
+    },
+    "rotation": {
+      "x": 360.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "plug_alcini_eurohm_comete_02",
+    "position": {
+      "x": 3.94899988,
+      "y": -0.00946283,
+      "z": -1.00121665
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "snap_5",
+    "position": {
+      "x": 3.94899988,
+      "y": 0.07053714,
+      "z": -1.00121665
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 2.00000024,
+      "y": 1.00000012,
+      "z": 1.19999969
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_13",
+    "position": {
+      "x": 3.94769979,
+      "y": 1.02183676,
+      "z": -1.00121629
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 2.00000024,
+      "y": 1.00000012,
+      "z": 0.19999994
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800",
+    "position": {
+      "x": 3.83299971,
+      "y": -0.0847621,
+      "z": 2.46494269
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "kitchen_01_group_01",
+    "position": {
+      "x": 3.969347,
+      "y": -0.08376074,
+      "z": -0.35321665
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000024,
+      "y": 1.00000024,
+      "z": 1.0
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_2hotspots_60_01",
+    "position": {
+      "x": 3.969347,
+      "y": -0.08376074,
+      "z": -0.35321665
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": {
+      "meshName": "scandi_kitchen_2hotspots_worktop",
+      "offSet": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_wall_60_01",
+    "position": {
+      "x": 3.969347,
+      "y": -0.08376074,
+      "z": -0.35321665
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_14",
+    "position": {
+      "x": 3.969347,
+      "y": -0.08376074,
+      "z": -0.35321665
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.99999958
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_led_60_01",
+    "position": {
+      "x": 3.969347,
+      "y": -0.08376074,
+      "z": -0.35321665
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_45_01",
+    "position": {
+      "x": 3.969347,
+      "y": -0.08376088,
+      "z": -0.95321673
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": {
+      "meshName": "scandi_kitchen_worktop",
+      "offSet": {
+        "x": -0.6,
+        "y": 0.0
+      }
+    },
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_wall_45_01",
+    "position": {
+      "x": 3.969347,
+      "y": -0.08376088,
+      "z": -0.95321673
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_15",
+    "position": {
+      "x": 3.9703474,
+      "y": 0.83026588,
+      "z": -1.17821646
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 0.45000002,
+      "y": 1.00000012,
+      "z": 0.49999979
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_led_45_01",
+    "position": {
+      "x": 3.969347,
+      "y": -0.08376088,
+      "z": -0.95321673
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_sink_120_01",
+    "position": {
+      "x": 3.96934676,
+      "y": -0.08376057,
+      "z": -1.40321696
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": {
+      "meshName": "scandi_kitchen_sink_worktop",
+      "offSet": {
+        "x": -1.05,
+        "y": 0.0
+      }
+    },
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_microwave_60_01",
+    "position": {
+      "x": 3.96934676,
+      "y": -0.08376057,
+      "z": -1.40321696
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_16",
+    "position": {
+      "x": 3.96934676,
+      "y": -0.08376057,
+      "z": -1.40321696
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.99999958
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_wall_60_02",
+    "position": {
+      "x": 3.96934676,
+      "y": -0.08376071,
+      "z": -2.00321722
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.99999958
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "s_wall_17",
+    "position": {
+      "x": 3.96934676,
+      "y": -0.08376071,
+      "z": -2.00321722
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_led_60_02",
+    "position": {
+      "x": 3.96934676,
+      "y": -0.08376057,
+      "z": -1.40321696
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  },
+  {
+    "name": "scandi_kitchen_led_60_03",
+    "position": {
+      "x": 3.96934676,
+      "y": -0.08376071,
+      "z": -2.00321722
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 90.0,
+      "z": 360.0
+    },
+    "scale": {
+      "x": 1.00000012,
+      "y": 1.00000012,
+      "z": 0.9999997
+    },
+    "offSetUV": null,
+    "tag": "shower_01",
+    "type": "object"
+  }
+]
